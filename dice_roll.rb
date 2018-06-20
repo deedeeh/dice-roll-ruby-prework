@@ -3,5 +3,5 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  Math.floor(Random.number())
+  Math.floor(Math.random())
 end
