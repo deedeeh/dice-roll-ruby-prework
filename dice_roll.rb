@@ -6,7 +6,7 @@ def roll
   rand(1..6)
 end
 
-# Bonus practice 
+# Bonus practice using an array
 def roll
   (1..6).to_a.sample
 end
